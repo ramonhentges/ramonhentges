@@ -1,6 +1,6 @@
 👋 Olá, meu nome é Ramon Hentges,
 
-💼 Atualmete trabalho como desenvolvedor FullStack para o Município de Arroio do Meio utilizando a stack NextJS, React Native, NestJS e PostgreSQL,
+💼 Atualmete trabalho como desenvolvedor FullStack para o Inatel - Instituto Nacional de Telecomunicações, utilizando a stack NextJS, React Native, NestJS e MariaDB,
 
 🌱 Estou estudando Python para criação de APIs, Tailwind para estilização de páginas e Clean Code.
 
